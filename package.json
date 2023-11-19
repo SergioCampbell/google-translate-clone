@@ -1,5 +1,6 @@
 {
   "name": "google-translate-clone",
+  "author": "Sergio Campbell",
   "private": true,
   "version": "0.0.0",
   "type": "module",
